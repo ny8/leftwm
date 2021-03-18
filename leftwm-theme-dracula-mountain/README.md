@@ -38,8 +38,8 @@ ln -s ~/.config/leftwm/themes/leftwm-theme-dracula-mountain ~/.config/leftwm/the
 ```Default shortcut
 $MOD + Shift + r
 ```
-# Extra
-The [dracula](https://draculatheme.com/) has plenty of themes like these for other programs.
+## Extra
+The [dracula website](https://draculatheme.com/) has plenty of themes like these for other programs.
 ## Credits
 
 [Orange Forest](https://github.com/PVautour/leftwm-theme-orange-forest/tree/cb951ec2d31f6a72a4783f336a263678ba9b8a81)
