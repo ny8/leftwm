@@ -1,6 +1,6 @@
 # ~~Orange Forest~~ Dracula Mountain
 
-Dracula Mountain is a modification of The Orange Forest theme.
+Dracula Mountain is a modification of the Orange Forest theme.
 ## Screenshot
 
 ![Empty Desktop](./images/empty-desktop.png)
@@ -38,8 +38,8 @@ ln -s ~/.config/leftwm/themes/leftwm-theme-dracula-mountain ~/.config/leftwm/the
 ```Default shortcut
 $MOD + Shift + r
 ```
-#Extra
+# Extra
 The [dracula](https://draculatheme.com/) has plenty of themes like these for other programs.
 ## Credits
 
-This work is based of the excelent i3 theme collection from [Stavros Grigoriou (unix121)](https://github.com/unix121)
+[Orange Forest](https://github.com/PVautour/leftwm-theme-orange-forest/tree/cb951ec2d31f6a72a4783f336a263678ba9b8a81)
